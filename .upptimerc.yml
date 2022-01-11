@@ -12,7 +12,7 @@ status-website:
   name: KLUE
   navbar:
     - title: Status
-      href: /
+      href: /klue-uptime
     - title: GitHub
       href: https://github.com/klue-kr
     - title: Contact
