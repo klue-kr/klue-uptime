@@ -7,6 +7,7 @@ sites:
     url: https://klue.kr
 
 status-website:
+  cname: https://klue-kr.github.io/klue-uptime
   baseUrl: /klue-uptime
   logoUrl: https://klue.kr/favicon.ico
   name: KLUE
