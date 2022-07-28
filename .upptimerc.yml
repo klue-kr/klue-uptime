@@ -5,6 +5,8 @@ repo: klue-uptime # The name of this repository
 sites:
   - name: KLUE
     url: https://klue.kr
+  - name: KLUE API
+    url: https://api-external.klue.kr/api/health
 
 status-website:
   baseUrl: /klue-uptime
