@@ -22,17 +22,19 @@
     "url": "https://api-external.klue.kr/api/health",
     "icon": "https://icons.duckduckgo.com/ip3/api-external.klue.kr.ico",
     "slug": "klue-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 865,
-    "timeDay": 684,
-    "timeWeek": 805,
+    "timeDay": 754,
+    "timeWeek": 808,
     "timeMonth": 827,
     "timeYear": 865,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-11-13": 0
+    }
   }
 ]
