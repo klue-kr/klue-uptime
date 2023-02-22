@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 943,
-    "timeDay": 1464,
-    "timeWeek": 1047,
-    "timeMonth": 914,
-    "timeYear": 940,
+    "time": 944,
+    "timeDay": 1337,
+    "timeWeek": 1010,
+    "timeMonth": 928,
+    "timeYear": 941,
     "dailyMinutesDown": {}
   },
   {
@@ -24,17 +24,15 @@
     "slug": "klue-api",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.61%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 840,
-    "timeDay": 850,
-    "timeWeek": 791,
-    "timeMonth": 768,
+    "timeDay": 874,
+    "timeWeek": 801,
+    "timeMonth": 770,
     "timeYear": 840,
-    "dailyMinutesDown": {
-      "2023-02-21": 6
-    }
+    "dailyMinutesDown": {}
   }
 ]
