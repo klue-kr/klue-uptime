@@ -1,7 +1,7 @@
 url: https://api-external.klue.kr/api/health
-status: down
-code: 503
-responseTime: 550
-lastUpdated: 2023-10-06T23:55:38.916Z
+status: up
+code: 200
+responseTime: 952
+lastUpdated: 2023-10-07T01:34:30.479Z
 startTime: 2022-07-28T00:07:58.000Z
 generator: Upptime <https://github.com/upptime/upptime>
